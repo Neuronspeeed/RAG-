@@ -1,4 +1,4 @@
-# Advanced RAG System with Hybrid Search
+# RAG System with Hybrid Search
 
 A Retrieval Augmented Generation (RAG) system featuring vector store, adaptive chunking, and hybrid search capabilities.
 
